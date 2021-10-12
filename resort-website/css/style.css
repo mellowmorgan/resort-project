@@ -1,0 +1,21 @@
+h1 {
+  color: teal;
+  text-align: left;
+  font-family: Arial, Helvetica, sans-serif;
+
+}
+
+h2 {
+  color: magenta;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+
+}
+
+p,li {
+  color: forestgreen;
+
+}
+
+body {
+  background-color: lavender;
+}
