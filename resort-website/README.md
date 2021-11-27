@@ -6,7 +6,8 @@ A website to practice use of a tags linking to other html pages in root director
 
 ## Technologies Used
 * HTML
- 
+* CSS
+* 
 ## Setup/Installation Requirements
 * Clone this repository to your desktop
 * Navigate to the top level of the directory
